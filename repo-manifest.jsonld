@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Kozea/WeasySuite/commit/246a9ca0ca9cd55db8fc2162c609f4f9c0664e85",
       "git:hexsha": "246a9ca0ca9cd55db8fc2162c609f4f9c0664e85",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T17:21:11.878162+00:00"
     }
   ]
 }
