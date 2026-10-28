@@ -1,0 +1,7 @@
+[2026-10-28T17:20:12Z] === AST ITERATION 1 START | repo=Kozea/WeasySuite sha=246a9ca0 ===
+[2026-10-28T17:20:12Z] [iter=1] PHASE START: ast repo=Kozea/WeasySuite sha=246a9ca0
+[2026-10-28T17:20:12Z] [iter=1] Building AST aggregate chunks
+[2026-10-28T17:20:15Z] [iter=1] AST chunks built count=1 triples=37785
+[2026-10-28T17:20:15Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/246a9ca0ca9cd55db8fc2162c609f4f9c0664e85/.complete
+[2026-10-28T17:20:15Z] [iter=1] PHASE END: ast elapsed_s=3 elapsed_min=0.1
+[2026-10-28T17:20:15Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
